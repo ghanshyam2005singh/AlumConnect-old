@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # AlumConnect
 
 **AlumConnect** is a web-based platform designed to bridge the gap between alumni and students, fostering valuable connections for career guidance, mentorship, and networking. By enabling students to interact with experienced alumni, AlumConnect promotes a culture of knowledge-sharing and career growth, helping students make informed decisions about their professional paths.
