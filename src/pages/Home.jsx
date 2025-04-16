@@ -12,5 +12,6 @@ const Home = () => {
         </div>
     );
 };
+console.log("Home page loaded");
 
 export default Home;
