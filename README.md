@@ -40,7 +40,7 @@ AlumConnect solves the challenge of disconnected alumni and students by providin
 - **Database**: MongoDB
 - **Authentication**: Firebase
 - **Security**: JWT (JSON Web Tokens)
-- **Deployment**: (Specify if applicable, e.g., Vercel, Heroku, etc.)
+- **Deployment**: (Specify if applicable, e.g., Vercel, etc.)
 
 ---
 
